@@ -9,7 +9,8 @@
   "message": "API EcoRealm aktif!",
   "status": "sukses"
 }
-- Response Error  (400)     : None
+- Response Error  (400)     : 
+Status: 404 Not Found
 
 - Method                    : Get
 - Url                       : https://ecorealm-api.vercel.app/pemain
@@ -36,7 +37,9 @@
   ],
   "status": "sukses"
 }
-- Response Error  (400)     : None
+- Response Error  (400)     : 
+Status: 404 Not Found
+
 
 - Method                    : Post
 - Url                       : https://ecorealm-api.vercel.app/pemain
